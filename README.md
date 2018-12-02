@@ -28,6 +28,14 @@ Additionally, if you wish to run the plugin every time it is built:
 npm run start
 ```
 
+## Dev enviroment
+
+Remove sketch plugin cache:
+
+```bash
+defaults write ~/Library/Preferences/com.bohemiancoding.sketch3.plist AlwaysReloadScript -bool YES
+```
+
 ## Custom Configuration
 
 ### Babel
