@@ -1,6 +1,10 @@
 # sketch-flex
 
+## Inspired by [Sketch-Layout-Flex](https://github.com/hrescak/Sketch-Flex-Layout)
+
 _This plugin was created using `skpm`. For a detailed explanation on how things work, checkout the [skpm Readme](https://github.com/skpm/skpm/blob/master/README.md)._
+
+[Sketch documentation](https://developer.sketchapp.com/reference/api)
 
 ## Usage
 

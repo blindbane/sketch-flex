@@ -21,5 +21,11 @@
   "devDependencies": {
     "@skpm/builder": "^0.5.11"
   },
-  "author": "Aidan Bane <aidanfbane@gmail.com>"
+  "author": "Aidan Bane <aidanfbane@gmail.com>",
+  "dependencies": {
+    "@skpm/util": "^0.1.21",
+    "cssjson": "^2.1.3",
+    "sketch-utils": "^0.2.9",
+    "yoga-layout": "^1.9.3"
+  }
 }
